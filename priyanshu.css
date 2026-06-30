@@ -112,7 +112,7 @@ body {
 }
 #front-right #img1{
    border-radius: 50%;
-   height: 26vw; 
+   height: 30vw; 
     width:26vw;
     background-size: contain; /* or 'cover' depending on your needs */
     background-repeat: no-repeat;
