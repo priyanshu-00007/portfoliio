@@ -114,7 +114,7 @@ body {
 }
 #front-right #img1{
    border-radius: 50%;
-   height: 27.5vw; 
+   height: 28vw; 
     width:26vw;
     background-size: contain; /* or 'cover' depending on your needs */
     background-repeat: no-repeat;
@@ -132,7 +132,7 @@ body {
 }
 #circle{
     display: flex;  justify-content: center;   align-items: center;
-    width: 26.5vw; height: 28vw;
+    width: 26.5vw; height: 28.5vw;
     background-color:rgb(255, 250, 250);
     border-radius: 50%;   border: solid 2px black;
     position: absolute;
