@@ -112,8 +112,8 @@ body {
 }
 #front-right #img1{
    border-radius: 50%;
-   height: 25vw; 
-    width:25vw;
+   height: 27vw; 
+    width:27vw;
     background-size: contain; /* or 'cover' depending on your needs */
     background-repeat: no-repeat;
     background-position: center;
